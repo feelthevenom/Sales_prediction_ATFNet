@@ -1,0 +1,6 @@
+long_term_forecast_sales_96_96_ATFNet_retail_sales_ftM_sl96_ll48_pl96_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_test_0  
+mse:0.013522545758722629, mae:0.09270311049417025
+
+long_term_forecast_ETTh1_96_96_ATFNet_custom_ftH_sl96_ll24_pl96_dm512_nh8_el2_dl1_df2048_fc1_ebtimeF_dtTrue_Exp_0  
+mse:0.011959103036423507, mae:0.08746362454748068
+
